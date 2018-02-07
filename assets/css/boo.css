@@ -275,11 +275,16 @@ section {
    padding-top: 3%;
  }
 
- .rsvp p {
-   font-family: 'Nunito', sans-serif;
+/*------------countdown--------------*/
+ #countdown {
+  font-family: 'Nunito', sans-serif;
+  background-color: #ecf7f9;
+  color: #8E8D95;
+  text-align: center;
+  /*font-size: 2vh;*/
+  margin-top:0px;
+  padding: 10px;
  }
-
-
   /*------------section five (VENDORS)--------------- */
   #five {
     background-color: white;
